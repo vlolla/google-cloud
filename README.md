@@ -20,11 +20,11 @@ The exam guide (https://cloud.google.com/certification/guides/professional-cloud
 
 Some of the questions on the exam may refer you to a case study that describes a fictitious business and solution concept. Review the sample case studies that may appear on your exam.
 
-Mountkirk games
+* Mountkirk games
 
-Dress4Win
+* Dress4Win
 
-TerramEarth
+* TerramEarth
 
 1. Designing and planning a cloud solution architecture
 2. Managing and provisioning a solution Infrastructure
