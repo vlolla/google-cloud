@@ -36,7 +36,7 @@ Serverless - Fully automated
 
 ## GCP computing architectures meet you where you are
 ----
-![image](images\GCP_Computing_Architectures.PNG)
+![image](./images/GCP_Computing_Architectures.PNG)
 
 ----
 
@@ -49,7 +49,7 @@ logic.
 
 ## Google Cloud Platform is organized into regions and zones
 
-![image](images\gcp_regions.PNG)
+![image](./images/gcp_regions.PNG)
 
 
 Regions and zones
@@ -65,7 +65,7 @@ across multiple zones in a region to help protect against unexpected failures.
 
 ## Google offers customer-friendly pricing
 
-![image](\images\pricing.PNG)
+![image](./images/pricing.PNG)
 
 Google was the first major cloud provider to deliver per-second billing for its
 Infrastructure-as-a-Service compute offering, Google Compute Engine. Per-second
@@ -84,7 +84,7 @@ fine-tuned for their applications, so that you can tailor your pricing for your 
 
 ## Google Cloud Platform offers services for getting value from data
 
-![image](images/offers.png)
+![image](./images/offers.png)
 
 
 Google Cloud Platform’s products and services can be broadly categorized as
