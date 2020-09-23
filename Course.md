@@ -5,7 +5,7 @@
 ## Course 1:  Google Cloud Platform Fundamentals: Core Infrastructure
 
 * Introducing Google Cloud Platform
-    * [Introduction]()
+    * [Introduction](https://github.com/vlolla/google-cloud/blob/master/GCP%20Core%20Infrastructure/Introducing%20Google%20Cloud%20Platform/introduction.md)
 * Getting Started with Google Cloud Platform
     * [Google Cloud Platform resource hierarchy](https://github.com/vlolla/google-cloud/blob/master/GCP%20Core%20Infrastructure/Getting%20Started%20WithGoogle%20Cloud%20Platform/hirerchy.md)
     * [Identity and Access Management (IAM)](https://github.com/vlolla/google-cloud/blob/master/GCP%20Core%20Infrastructure/Getting%20Started%20WithGoogle%20Cloud%20Platform/iam.md)
