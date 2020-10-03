@@ -1,0 +1,4 @@
+# Hybrid Cloud Infrastructure Foundations with Anthos
+
+1. [Qwiklabs – Managing Hybrid Clusters using Kubernetes Engine]("https://github.com/vlolla/google-cloud/blob/master/Architecting%20Hybrid%20Cloud%20Infrastructure%20with%20Anthos%20Specialization/1%20Hybrid%20Cloud%20Infrastructure%20Foundations%20with%20Anthos/managinganthoslab.md")
+2. [Qwiklabs - Installing Anthos Service Mesh on Google Kubernetes Engine]("https://github.com/vlolla/google-cloud/blob/master/Architecting%20Hybrid%20Cloud%20Infrastructure%20with%20Anthos%20Specialization/1%20Hybrid%20Cloud%20Infrastructure%20Foundations%20with%20Anthos/servicemesh.md")

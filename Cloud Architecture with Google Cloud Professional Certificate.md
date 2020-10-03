@@ -26,10 +26,13 @@
 
 ## Course Completion Certificate Link
 
+    https://coursera.org/share/30c8bfc07ae0a2f755ab578a9b02db74
 
 
  
 ## Course 2: Essential Google Cloud Infrastructure: Foundation
+
+
 
 ## Course 3: Essential Google Cloud Infrastructure: Core Services
 

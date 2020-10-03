@@ -1,4 +1,10 @@
-## Managing Hybrid Clusters using Kubernetes Engine
+
+## Managing Hybrid Clusters Notes
+
+
+
+
+## Labs Managing Hybrid Clusters using Kubernetes Engine
 
 
 Kubernetes is the de-facto standard for container orchestration, and Google Kubernetes Engine (GKE) is a leader in the field of managed Kubernetes offerings. In 2018, Google brought Kubernetes to data centers with a new offering called GKE On-Prem, a certified and managed extension of the cloud-based GKE platform.
