@@ -10,9 +10,19 @@ There are 3 Courses in this Specialization
     * [Managing Hybrid Clusters using Kubernetes Engine]()
     * [Introduction to Service Mesh]()
 
-Link to completion certificate from Coursera -> 
+Link to completion certificate from Coursera -> https://www.coursera.org/account/accomplishments/verify/MD3ZEJTPW95Q
+
 
 2. Hybrid Cloud Service Mesh with Anthos
+
+      Week 2
+        * Telemetry and Observability in Service Mesh
+        * Service Mesh Telemetry Backends and Stackdriver
+        * On-Prem Service Mesh Telemetry Backends
+        * Lab: Observing Services using Prometheus, Grafana, Jaeger, and Kiali.
+
+
+
 3. Hybrid Cloud Multi-Cluster with Anthos
 
 
