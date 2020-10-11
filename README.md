@@ -4,7 +4,7 @@ A Professional Cloud Architect enables organizations to leverage Google Cloud te
 
 Click [here](https://github.com/vlolla/google-cloud/blob/master/Cloud%20Architecture%20with%20Google%20Cloud%20Professional%20Certificate.md) for more detail documentation of this course progress
 
-![Cloud Architecture with Google Cloud Professional Certificate](./certificate/){width=75%}.
+![Cloud Architecture with Google Cloud Professional Certificate](./certificate/CourseraX9BFRCQQPPMQ.pdf){width=75%}.
 
 
 
