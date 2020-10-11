@@ -47,7 +47,7 @@
 
 ## Course 5: Reliable Google Cloud Infrastructure: Design and Process
 
-[Certificate]('https://www.coursera.org/account/accomplishments/records/Y82GCCQJ8GTG')
+[Certificate]('https://www.coursera.org/account/accomplishments/verify/9T7LWDTJY897')
 
 ## Course 6: Preparing for the Google Cloud Professional Cloud Architect Exam
 
