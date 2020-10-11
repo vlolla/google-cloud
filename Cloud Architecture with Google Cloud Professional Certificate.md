@@ -26,7 +26,7 @@
 
 ## Course Completion Certificate Link
 
-[Certificate]('https://coursera.org/share/30c8bfc07ae0a2f755ab578a9b02db74')
+[Certificate](https://coursera.org/share/30c8bfc07ae0a2f755ab578a9b02db74)
 
 
  
@@ -34,28 +34,28 @@
 
 ### Course Completion Certificate Link
 
-[Certificate]('https://www.coursera.org/account/accomplishments/records/CQKKWJMZQBRR')
+[Certificate](https://www.coursera.org/account/accomplishments/records/CQKKWJMZQBRR)
 
 ## Course 3: Essential Google Cloud Infrastructure: Core Services
 
-[Certificate]('https://www.coursera.org/account/accomplishments/certificate/F9G5BC7YRWD9')
+[Certificate](https://www.coursera.org/account/accomplishments/certificate/F9G5BC7YRWD9)
 
 ## Course 4: Elastic Google Cloud Infrastructure: Scaling and Automation
 
-[Certificate]('https://www.coursera.org/account/accomplishments/records/Y82GCCQJ8GTG')
+[Certificate](https://www.coursera.org/account/accomplishments/records/Y82GCCQJ8GTG)
 
 
 ## Course 5: Reliable Google Cloud Infrastructure: Design and Process
 
-[Certificate]('https://www.coursera.org/account/accomplishments/verify/9T7LWDTJY897')
+[Certificate](https://www.coursera.org/account/accomplishments/verify/9T7LWDTJY897)
 
 ## Course 6: Preparing for the Google Cloud Professional Cloud Architect Exam
 
-[Certificate]('https://www.coursera.org/account/accomplishments/records/Y82GCCQJ8GTG')
+[Certificate](https://www.coursera.org/account/accomplishments/records/Y82GCCQJ8GTG)
 
 ## Certificate of Completion from coursera. Thanks to Google Cloud Intructors
 
-[Certificate]('https://www.coursera.org/account/accomplishments/records/Y82GCCQJ8GTG')
+[Certificate](https://www.coursera.org/account/accomplishments/records/Y82GCCQJ8GTG)
 
 # What's Next??
 
