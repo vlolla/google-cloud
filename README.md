@@ -6,7 +6,7 @@ Click [here](https://github.com/vlolla/google-cloud/blob/master/Cloud%20Architec
 
 ![Cloud Architecture with Google Cloud Professional Certificate](./certificate/X9BFRCQQPPMQ.jpeg)
 
-https://www.coursera.org/account/accomplishments/specialization/certificate/X9BFRCQQPPMQ
+https://www.coursera.org/account/accomplishments/professional-cert/X9BFRCQQPPMQ
 
 #  Architecting with Google Compute Engine Specialization
 
@@ -16,10 +16,10 @@ These hands on components will let you apply the skills you learn. Projects inco
 
 New! CERTIFICATE COMPLETION CHALLENGE from Coursera and Google Cloud
 
-![Architecting with Google Compute Engine Specialization](./certificate/TEBSZLATHH4J.jpg)
+![Architecting with Google Compute Engine Specialization](./certificate/TEBSZLATHH4J.jpeg)
 
 
-https://www.coursera.org/account/accomplishments/specialization/certificate/TEBSZLATHH4J
+https://www.coursera.org/account/accomplishments/specialization/TEBSZLATHH4J
 
 
 
