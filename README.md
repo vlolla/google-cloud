@@ -16,7 +16,7 @@ These hands on components will let you apply the skills you learn. Projects inco
 
 New! CERTIFICATE COMPLETION CHALLENGE from Coursera and Google Cloud
 
-![Architecting with Google Compute Engine Specialization](./certificate/TEBSZLATHH4J.jpeg)
+![Architecting with Google Compute Engine Specialization](./certificate/TEBSZLATHH4J.jpg)
 
 
 https://www.coursera.org/account/accomplishments/specialization/certificate/TEBSZLATHH4J
