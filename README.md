@@ -22,8 +22,12 @@ New! CERTIFICATE COMPLETION CHALLENGE from Coursera and Google Cloud
 https://www.coursera.org/account/accomplishments/specialization/TEBSZLATHH4J
 
 
-# Architecting Hybrid Cloud Infrastructure with Anthos Specialization - Preperation
+# Architecting Hybrid Cloud Infrastructure with Anthos Specialization 
 
 This specialization is intended for technical engineers, architects, and administrators using Google Cloud Platform (GCP), Kubernetes, and Istio to create, integrate, or modernize solutions. You will learn modernizing, managing, and observing microservices-based applications that span multiple clusters in GCP, on-premises, or other cloud providers.
 
 Click [here](https://github.com/vlolla/google-cloud/tree/master/Architecting%20Hybrid%20Cloud%20Infrastructure%20with%20Anthos%20Specialization) for more detail documentation of this course progress
+
+![Architecting Hybrid Cloud Infrastructure with Anthos Specialization](./certificate/CERTIFICATE_LANDING_PAGE_CNB2TM9PHQ6S.jpeg)
+
+https://www.coursera.org/account/accomplishments/specialization/CNB2TM9PHQ6S
